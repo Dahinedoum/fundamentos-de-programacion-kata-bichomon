@@ -28,17 +28,17 @@ Aquí hemos ejecutado `document.querySelector('.infocard')` para obtener el prim
 
 Una vez lo tenemos, podemos interactuar con él y obtener la información que nos interese, para poder transformarla o mostrarla tal cual.
 
-1. Cambia el título "Generation 1 Pokémon" por "Generasión 1 Pokimon".
+<!-- 1. Cambia el título "Generation 1 Pokémon" por "Generasión 1 Pokimon". -->
 
-2. Cambia el color de fondo de la primera generación de Pokimon.
+<!-- 2. Cambia el color de fondo de la primera generación de Pokimon. -->
 
-3. Imprime por consola la URL de la página.
+<!-- 3. Imprime por consola la URL de la página. -->
 
-4. Imprime por consola el dominio de la página.
+<!-- 4. Imprime por consola el dominio de la página. -->
 
-5. Imprime todos los nodos de imagen.
+<!-- 5. Imprime todos los nodos de imagen. -->
 
-6. Sustituye el atributo "src" de todas las imágenes por este "https://media.giphy.com/media/2v170e71aanfi/giphy.gif"
+<!-- 6. Sustituye el atributo "src" de todas las imágenes por este "https://media.giphy.com/media/2v170e71aanfi/giphy.gif" -->
 
 *Premium:*
 
